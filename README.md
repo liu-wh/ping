@@ -5,3 +5,6 @@
 单地址: ip 主机名
 多地址: ip,ip,ip
 地址范围: 8.8.8.1{00-09} // ping9个主机, 8.8.8.100 - 8.8.8.109
+
+![Image text](https://www.liuwh.top/wp-content/uploads/2021/12/y.png)
+
