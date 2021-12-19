@@ -2,6 +2,7 @@ import 'antd/dist/antd.css';
 import React, { Component, Fragment } from 'react'
 import { Typography, Button, Skeleton, Space, message, AutoComplete, Row, Col, Input, Divider } from 'antd';
 import { nanoid } from 'nanoid';
+
 const electron = window.require('electron');
 const {ipcRenderer} = electron;const { Text, Title } = Typography;
 const SINGLERE = /,|{/
